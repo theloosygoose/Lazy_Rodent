@@ -1,2 +1,2 @@
 # Project_HiddenMixer
-code for a robot that i am making with Arduino UNO 
+Work in progress that will run a robot that can view the surrounding area using Lidar.
